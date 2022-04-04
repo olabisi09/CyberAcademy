@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.exe
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.deps.json
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.runtimeconfig.json
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.dll
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\bin\Debug\net5.0\Cyberspace.Starter.pdb
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.dll
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\refint\Cyberspace.Starter.dll
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.pdb
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\Cyberspace.Starter.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Cyberspace\Cyberspace.Starter\obj\Debug\net5.0\ref\Cyberspace.Starter.dll
